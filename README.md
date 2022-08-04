@@ -1,6 +1,5 @@
-<p align=center>
-    ![hbnb](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220804T113434Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=839a6c140a745d23277bfa7498730af949ddcae440194e21fed70e53fd8a2616)
-</p>
+![hbnb](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220804T113434Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=839a6c140a745d23277bfa7498730af949ddcae440194e21fed70e53fd8a2616)
+
 
 <h1 align=center> AirBnB Clone </h1>
 
